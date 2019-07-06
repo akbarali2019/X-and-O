@@ -22,3 +22,10 @@ In this game, there should be two players: one is for X and the other one is for
 
 # The main techniques for Win
 The initial step and a true decision
+
+# Mainly Used methods
+      check_Diagonal (char i)
+      check_Row_Equality(int r, char i)
+      check_Column_Equality(int c, char i)
+      stopMatch()
+      
