@@ -1,6 +1,8 @@
 # X-and-O
 Individual Project at University
 
+In this game, there should be two players: one is for X and the other one is for O. They should put X or O turn by turn, and the first player who can cross 3 Xes or 3 Os diagonally, vertically or horizontally wins the game. Here, the players' logical thinking and a true decision play very important role.
+
 # Used Tools
       Android Studio
       Java
