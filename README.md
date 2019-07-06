@@ -15,3 +15,5 @@ Individual Project at University
       
 # UI
 ![image](https://user-images.githubusercontent.com/52565814/60756572-e1008b00-a039-11e9-8594-d57ca0fae5f5.png)
+![image](https://user-images.githubusercontent.com/52565814/60756591-0c837580-a03a-11e9-84d8-fe213c1196b9.png)
+![image](https://user-images.githubusercontent.com/52565814/60756596-19a06480-a03a-11e9-944f-9659091f4aee.png)
