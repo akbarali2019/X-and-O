@@ -6,8 +6,7 @@ In this game, there should be two players: one is for X and the other one is for
 # Used Tools
       Android Studio
       Java
-      HTML
-      CSS
+      XML
       
       
 # The Idea of The Project
