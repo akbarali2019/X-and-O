@@ -27,4 +27,5 @@ The initial step and a true decision
       check_Row_Equality(int r, char i)
       check_Column_Equality(int c, char i)
       stopMatch()
+      ...
       
